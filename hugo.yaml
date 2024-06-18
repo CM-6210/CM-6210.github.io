@@ -1,0 +1,4 @@
+baseURL: https://CM-6210.github.io/
+languageCode: en-us
+title: CM's Blog
+theme: ["PaperMod"]
