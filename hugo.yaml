@@ -4,6 +4,7 @@ title: CM's Blog
 theme: ["PaperMod"]
 
 params:
+  comments: true
   Showtoc: true
   ShowCodeCopyButtons: true
   ShowPostNavLinks: true
