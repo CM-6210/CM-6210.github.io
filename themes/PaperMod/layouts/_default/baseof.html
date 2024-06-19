@@ -8,7 +8,14 @@
 <head>
     {{- partial "head.html" . }}
 </head>
-
+<script type="text/javascript" src="//wcs.naver.net/wcslog.js"></script>
+<script type="text/javascript">
+if(!wcs_add) var wcs_add = {};
+wcs_add["wa"] = "1647d8d5fc243f";
+if(window.wcs) {
+  wcs_do();
+}
+</script>
 <body class="
 {{- if (or (ne .Kind `page` ) (eq .Layout `archives`) (eq .Layout `search`)) -}}
 {{- print "list" -}}
@@ -25,11 +32,3 @@
 </body>
 
 </html>
-<script type="text/javascript" src="//wcs.naver.net/wcslog.js"></script>
-<script type="text/javascript">
-if(!wcs_add) var wcs_add = {};
-wcs_add["wa"] = "1647d8d5fc243f";
-if(window.wcs) {
-  wcs_do();
-}
-</script>
