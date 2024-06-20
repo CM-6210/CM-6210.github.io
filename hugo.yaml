@@ -4,6 +4,7 @@ title: __CM__
 theme: ["PaperMod"]
 
 params:
+  env: production
   assets:
     favicon: "/favicon.ico"
     favicon16x16: "/favicon-16x16.png"
@@ -22,7 +23,7 @@ params:
       - name: github
         url: 'https://github.com/CM-6210'
   cover:
-    linkFullImages: true
+    linkFullImages: false
   
   ShowBreadCrumbs: true
   ShowreadingTime: true
