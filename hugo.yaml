@@ -1,6 +1,6 @@
 baseURL: https://CM-6210.github.io/
 languageCode: en-us
-title: CM's Blog
+title: __CM__
 theme: ["PaperMod"]
 
 params:
@@ -16,8 +16,8 @@ params:
   ShowPostNavLinks: true
   defaultTheme: dark
   homeInfoParams:
-    Title: "Hello"
-    Content: 'Welcome to my blog'
+    Title: "__Welcome__"
+    Content: Welcome to my blog!
   socialIcons:
       - name: github
         url: 'https://github.com/CM-6210'
