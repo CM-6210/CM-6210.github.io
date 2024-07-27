@@ -6,8 +6,37 @@
     <description>Recent content in Posts on __CM__</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Jun 2024 17:47:47 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jul 2024 01:24:26 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1_Introducing_C</title>
+      <link>http://localhost:1313/posts/1_introducing_c/</link>
+      <pubDate>Sun, 28 Jul 2024 01:24:26 +0900</pubDate>
+      <guid>http://localhost:1313/posts/1_introducing_c/</guid>
+      <description>1-1 History Of C Origins UNIX was written in assembly.
+-&amp;gt; painful -&amp;gt; Thompson designed &amp;ldquo;B&amp;rdquo; -&amp;gt; Ritchie joined, and rewrote a portion of UNIX in B =&amp;gt; It became C &amp;ndash;&amp;gt; Benfit: portability Standardization 1970s: C evolved &amp;amp; evolved
+80s: C hd expanded(UNIX), C compilers could run under different OS
+K&amp;amp;R was fuzzy about some language features.
+U.S. Standard for C began(1983) (American National Standards Institute,ANSI의 후원) -&amp;gt; C89, C90</description>
+    </item>
+    <item>
+      <title>End_exam</title>
+      <link>http://localhost:1313/posts/end_exam/</link>
+      <pubDate>Thu, 04 Jul 2024 23:18:36 +0900</pubDate>
+      <guid>http://localhost:1313/posts/end_exam/</guid>
+      <description>시험이 끝났다 1일차: 영어 과학
+2일차: 수학 도덕 한문
+3일차: 기가 역사 국어
+이번 학기 ==내 목표는 달성==했다.
+하지만 만족스럽지는 않다. 다음 학기는 목표를 조금 높여서 도전</description>
+    </item>
+    <item>
+      <title>Exam</title>
+      <link>http://localhost:1313/posts/exam/</link>
+      <pubDate>Sat, 22 Jun 2024 21:34:44 +0900</pubDate>
+      <guid>http://localhost:1313/posts/exam/</guid>
+      <description>기말 D - Day </description>
+    </item>
     <item>
       <title>Test</title>
       <link>http://localhost:1313/posts/test/</link>

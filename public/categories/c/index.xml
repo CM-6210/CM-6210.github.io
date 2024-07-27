@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>C on __CM__</title>
+    <link>http://localhost:1313/categories/c/</link>
+    <description>Recent content in C on __CM__</description>
+    <generator>Hugo -- 0.127.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Jul 2024 01:24:26 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/c/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1_Introducing_C</title>
+      <link>http://localhost:1313/posts/1_introducing_c/</link>
+      <pubDate>Sun, 28 Jul 2024 01:24:26 +0900</pubDate>
+      <guid>http://localhost:1313/posts/1_introducing_c/</guid>
+      <description>1-1 History Of C Origins UNIX was written in assembly.
+-&amp;gt; painful -&amp;gt; Thompson designed &amp;ldquo;B&amp;rdquo; -&amp;gt; Ritchie joined, and rewrote a portion of UNIX in B =&amp;gt; It became C &amp;ndash;&amp;gt; Benfit: portability Standardization 1970s: C evolved &amp;amp; evolved
+80s: C hd expanded(UNIX), C compilers could run under different OS
+K&amp;amp;R was fuzzy about some language features.
+U.S. Standard for C began(1983) (American National Standards Institute,ANSI의 후원) -&amp;gt; C89, C90</description>
+    </item>
+  </channel>
+</rss>

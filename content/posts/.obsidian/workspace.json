@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fc5f392bc7c63ca8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Introducing_C.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "end_exam.md",
+                "file": "1_Introducing_C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "end_exam.md",
+                "file": "1_Introducing_C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "end_exam.md"
+                "file": "1_Introducing_C.md"
               }
             }
           }
@@ -146,6 +159,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6bac538425c7a7e7",
-  "lastOpenFiles": []
+  "active": "2d8e902fa209b4cd",
+  "lastOpenFiles": [
+    "end_exam.md",
+    "exam.md",
+    "test.md",
+    "1_Introducing_C.md"
+  ]
 }
