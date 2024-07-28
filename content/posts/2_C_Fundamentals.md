@@ -1,7 +1,7 @@
 +++
 title = '2_C_Fundamentals'
 date = 2024-07-28T19:27:30+09:00
-draft = true
+draft = false
 +++
 # 2-1 Writing a Simple Program
 ### Printing a Pun
