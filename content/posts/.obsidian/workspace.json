@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Introducing_C.md",
+                "file": "2_C_Fundamentals.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Introducing_C.md",
+                "file": "2_C_Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Introducing_C.md",
+                "file": "2_C_Fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Introducing_C.md"
+                "file": "2_C_Fundamentals.md"
               }
             }
           }
@@ -159,11 +159,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "2d8e902fa209b4cd",
+  "active": "fc5f392bc7c63ca8",
   "lastOpenFiles": [
+    "1_Introducing_C.md",
+    "2_C_Fundamentals.md",
     "end_exam.md",
     "exam.md",
-    "test.md",
-    "1_Introducing_C.md"
+    "test.md"
   ]
 }
