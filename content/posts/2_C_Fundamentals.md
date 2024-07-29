@@ -43,3 +43,38 @@ A linker combines the object code with any additional code needed to yield a com
 - supplied with Linux, but now available for many other platforms
 - EX) to compile pun.c -> gcc -o pun pun.c
 ----------------------------------
+### Intergrated Development Environments(IDE)
+A software package that allows us to edit,compile,link,execute, and even debug a program without leaving the environment.
+
+# The General Form of a Simple Program
+Simple C programs have the form
+
+*directives*
+
+*int main(void)*
+*{*
+	*statements*
+*}*
+Notice how the braces show where *main* begins and ends. C uses { and } in much the same way that some other languages use words like *begin* and *end*.
+This illustrates a general oint about C:
+it relies heavily on abbreviations and special symbols(-> C programs are concise)
+
+C programs rely on 3 key language features: **directives**(editing commands that modify the program prior to compilation), **function**(named blocks of executable code, of which main is an example), and **statements**(commands to be performed when the program is run)
+
+## Directives
+Before a C program is compiled, it is first edited by a preprocessor.
+Commands intended for the preprocessor are called directives.(more detail -> ch 14,15)
+For now, only interested in #include
+"#include <stdio.h>": This directive states taht the information in <stdio.h> is to be "included" into the program beofre it  is compiled. It contains info about C's standard I/O lib. C has a number of **headers** like <stdio.h>; each contains info about some park of the standard library.
+The ability to perform input and output is provided instead by functions in the standard library.
+
+Directives always begin with a # character.(-> distinguishes them from others in a C program)
+By default, directives are one line long.(No semicolon, etc..)
+
+## Functions
+They are like "procedures" or  "subroutines" in other programming langs.
+They're the building blocks from which programs are constructed.
+In fact, a C program is little more than a collection of functions.
+- written by the programmer
+- provided as part of the C lib
+In C, a function is simply a series of statements that have been grouped together and given a name. \
