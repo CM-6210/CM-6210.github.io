@@ -77,4 +77,24 @@ They're the building blocks from which programs are constructed.
 In fact, a C program is little more than a collection of functions.
 - written by the programmer
 - provided as part of the C lib
-In C, a function is simply a series of statements that have been grouped together and given a name. \
+In C, a function is simply a series of statements that have been grouped together and given a name. Some funtions compute a value; some don't A function that computes a value uses the *return* statement to specify what value it "returns".
+*main* is special: It gets called automatically when the program is executed.(The name *main* is critical. It can't be *start*, etc...)
+
+If *main* is a function, does it return a value?
+-> It returns a status code taht is given to the OS when the program terminates.
+Let's take a look at the pun.c
+
+```C
+#include <stdio.h>
+
+int main(void)
+{
+	printf("To C, or not to C: taht is the question. \n");
+	return 0;
+}
+```
+The word *int* just before *main* indicates taht the *main* function returns an interger value.
+The word *void* in parentheses indicates that *main* has no arguments.
+*return 0;* has two effects:
+it causes *main* function to terminate(For now, we'll always have *main* return 0, which indicates normal rogram termination)
+If there's no *return* at the end of the *main* function, the program will still statement.(But many compilers will produce a warning message(because the function was supposed to return an integer but failed to.))
