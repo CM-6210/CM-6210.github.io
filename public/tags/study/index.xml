@@ -6,8 +6,16 @@
     <description>Recent content in Study on __CM__</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Jul 2024 01:24:26 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jul 2024 19:27:30 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/study/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2_C_Fundamentals</title>
+      <link>http://localhost:1313/posts/2_c_fundamentals/</link>
+      <pubDate>Sun, 28 Jul 2024 19:27:30 +0900</pubDate>
+      <guid>http://localhost:1313/posts/2_c_fundamentals/</guid>
+      <description>2-1 Writing a Simple Program Printing a Pun Here&amp;rsquo;s the pun: To C, or not to C: that is the question. pun.c 라고 이름을 지을 아래 프로그램은, 실행될 때 위 메시지를 보여준다.
+#include &amp;lt;stdio.h&amp;gt; int main(void) { printf(&amp;#34;To C, or not to C: taht is the question. \n&amp;#34;); return 0; } 섹션 2-2에서 자세한 설명. 지금은 간단하게만 &amp;ldquo;#include &amp;lt;stdio.h&amp;gt;&amp;rdquo;. 이것은 C&amp;rsquo;s standard I/O(INPUT/OUTPUT)을 include 하기 위해 필요하다. 프로그램의 executable code는 main 안에 있다.</description>
+    </item>
     <item>
       <title>1_Introducing_C</title>
       <link>http://localhost:1313/posts/1_introducing_c/</link>
